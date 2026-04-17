@@ -1,6 +1,6 @@
 cask "vigil-ant" do
-  version "0.0.8"
-  sha256 "96de0e0f291d645a75d61e1c30e8a020be967b8a3aea530ec9e1a0d9f960f2d3"
+  version "0.0.9"
+  sha256 "a944245dde291f15d7ecccd149f12121338317a811d18a961daae34c917f3be5"
 
   url "https://github.com/shashank-shekhar/vigil-ant/releases/download/v#{version}/Vigil-ant-#{version}.dmg"
   name "Vigil-ant"
